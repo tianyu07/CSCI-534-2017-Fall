@@ -1,0 +1,1592 @@
+id: 1  title: Where Is My Mind (XFM Live Version)
+fear  sadness
+sadness  fear
+anger  anger
+joy  joy
+firstMatch: 0  secondMatch: 0  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 0  match23: 0
+
+id: 2  title: This Lullaby
+joy  sadness
+fear  fear
+sadness  anger
+anger  joy
+firstMatch: 0  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 0  match23: 0
+
+id: 3  title: Looking At You (Cody High School)
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 1  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 0  match23: 0
+
+id: 4  title: The Fundamental Alienation
+sadness  sadness
+anger  anger
+fear  joy
+joy  fear
+firstMatch: 2  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 1  match23: 0
+
+id: 5  title: The Silver Gate
+sadness  sadness
+joy  fear
+anger  joy
+fear  anger
+firstMatch: 3  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 1  match23: 0
+
+id: 6  title: Special
+sadness  sadness
+joy  fear
+fear  anger
+anger  joy
+firstMatch: 4  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 1  match23: 0
+
+id: 7  title: Follow You Home (Album Version)
+sadness  anger
+anger  joy
+fear  sadness
+joy  fear
+firstMatch: 4  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 1  match23: 0
+
+id: 8  title: Catharsis Of A Heretic
+sadness  sadness
+fear  fear
+joy  anger
+anger  joy
+firstMatch: 5  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 9  title: Spaz's House Destruction Party
+sadness  sadness
+fear  anger
+joy  joy
+anger  fear
+firstMatch: 6  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 10  title: Wings
+sadness  anger
+fear  joy
+joy  sadness
+anger  fear
+firstMatch: 6  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 11  title: Secret Smile
+sadness  sadness
+joy  fear
+fear  anger
+anger  joy
+firstMatch: 7  secondMatch: 1  thirdMatch: 1  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 12  title: This Will Be Laughing Week
+sadness  anger
+anger  sadness
+joy  joy
+fear  fear
+firstMatch: 7  secondMatch: 1  thirdMatch: 2  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 13  title: Pitch In OnA Party
+sadness  fear
+anger  joy
+joy  sadness
+fear  anger
+firstMatch: 7  secondMatch: 1  thirdMatch: 2  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 14  title: Just In Case
+fear  sadness
+sadness  fear
+anger  anger
+joy  joy
+firstMatch: 7  secondMatch: 1  thirdMatch: 3  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 15  title: Too Cool for Love
+sadness  sadness
+joy  anger
+anger  fear
+fear  joy
+firstMatch: 8  secondMatch: 1  thirdMatch: 3  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 16  title: At Night
+joy  anger
+sadness  joy
+fear  fear
+anger  sadness
+firstMatch: 8  secondMatch: 1  thirdMatch: 4  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 17  title: Umbrella
+anger  sadness
+sadness  fear
+joy  anger
+fear  joy
+firstMatch: 8  secondMatch: 1  thirdMatch: 4  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 18  title: I Don't Want To Talk About It
+anger  fear
+sadness  sadness
+joy  anger
+fear  joy
+firstMatch: 8  secondMatch: 2  thirdMatch: 4  fourthMatch: 0
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 19  title: House Of Wolves (Album Version)
+sadness  fear
+anger  sadness
+fear  anger
+joy  joy
+firstMatch: 8  secondMatch: 2  thirdMatch: 4  fourthMatch: 1
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 20  title: Ya Lil' Crumbsnatchers (LP Version)
+sadness  anger
+joy  sadness
+anger  fear
+fear  joy
+firstMatch: 8  secondMatch: 2  thirdMatch: 4  fourthMatch: 1
+match1234: 0  match123: 0  match12: 2  match23: 0
+
+id: 21  title: This House Is Haunted
+sadness  sadness
+fear  fear
+joy  anger
+anger  joy
+firstMatch: 9  secondMatch: 2  thirdMatch: 4  fourthMatch: 1
+match1234: 0  match123: 0  match12: 3  match23: 0
+
+id: 22  title: Killing Machine
+sadness  sadness
+anger  anger
+fear  fear
+joy  joy
+firstMatch: 10  secondMatch: 2  thirdMatch: 4  fourthMatch: 1
+match1234: 1  match123: 1  match12: 4  match23: 1
+
+id: 23  title: I'm Over You (Album Version)
+sadness  fear
+joy  sadness
+anger  joy
+fear  anger
+firstMatch: 10  secondMatch: 2  thirdMatch: 4  fourthMatch: 1
+match1234: 1  match123: 1  match12: 4  match23: 1
+
+id: 24  title: Assassination
+sadness  fear
+anger  sadness
+fear  anger
+joy  joy
+firstMatch: 10  secondMatch: 2  thirdMatch: 4  fourthMatch: 2
+match1234: 1  match123: 1  match12: 4  match23: 1
+
+id: 25  title: I Did it for You
+fear  sadness
+sadness  fear
+anger  anger
+joy  joy
+firstMatch: 10  secondMatch: 2  thirdMatch: 5  fourthMatch: 2
+match1234: 1  match123: 1  match12: 4  match23: 1
+
+id: 26  title: Pocket Full Of Stars
+sadness  fear
+anger  anger
+joy  sadness
+fear  joy
+firstMatch: 10  secondMatch: 3  thirdMatch: 5  fourthMatch: 2
+match1234: 1  match123: 1  match12: 4  match23: 1
+
+id: 27  title: The Way I Am
+sadness  anger
+anger  joy
+fear  sadness
+joy  fear
+firstMatch: 10  secondMatch: 3  thirdMatch: 5  fourthMatch: 2
+match1234: 1  match123: 1  match12: 4  match23: 1
+
+id: 28  title: No Regrets
+sadness  sadness
+anger  anger
+fear  joy
+joy  fear
+firstMatch: 11  secondMatch: 3  thirdMatch: 5  fourthMatch: 2
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 29  title: About Last Night (LP Version)
+sadness  anger
+fear  sadness
+joy  joy
+anger  fear
+firstMatch: 11  secondMatch: 3  thirdMatch: 6  fourthMatch: 2
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 30  title: Perfection Design
+joy  sadness
+sadness  anger
+anger  fear
+fear  joy
+firstMatch: 11  secondMatch: 3  thirdMatch: 6  fourthMatch: 2
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 31  title: My Record Company
+sadness  sadness
+anger  fear
+joy  anger
+fear  joy
+firstMatch: 12  secondMatch: 3  thirdMatch: 6  fourthMatch: 2
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 32  title: Coolsville (Live Acoustic Version)
+joy  sadness
+sadness  anger
+fear  joy
+anger  fear
+firstMatch: 12  secondMatch: 3  thirdMatch: 6  fourthMatch: 2
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 33  title: Memorabilia
+sadness  sadness
+joy  fear
+anger  anger
+fear  joy
+firstMatch: 13  secondMatch: 3  thirdMatch: 6  fourthMatch: 2
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 34  title: Dance Hall Days
+sadness  sadness
+joy  fear
+anger  anger
+fear  joy
+firstMatch: 14  secondMatch: 3  thirdMatch: 6  fourthMatch: 2
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 35  title: When Will They Shoot? (Explicit)
+sadness  fear
+anger  sadness
+fear  anger
+joy  joy
+firstMatch: 14  secondMatch: 3  thirdMatch: 6  fourthMatch: 3
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 36  title: Close To You
+sadness  sadness
+anger  fear
+joy  anger
+fear  joy
+firstMatch: 15  secondMatch: 3  thirdMatch: 6  fourthMatch: 3
+match1234: 1  match123: 1  match12: 5  match23: 1
+
+id: 37  title: Bury You
+anger  anger
+sadness  sadness
+fear  joy
+joy  fear
+firstMatch: 16  secondMatch: 3  thirdMatch: 6  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 38  title: Surf of Syn
+anger  sadness
+sadness  anger
+fear  fear
+joy  joy
+firstMatch: 16  secondMatch: 3  thirdMatch: 7  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 39  title: Wrong End Of The Rainbow
+sadness  sadness
+joy  fear
+fear  anger
+anger  joy
+firstMatch: 17  secondMatch: 3  thirdMatch: 7  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 40  title: Alpha Beta Parking Lot
+joy  sadness
+sadness  anger
+anger  fear
+fear  joy
+firstMatch: 17  secondMatch: 3  thirdMatch: 7  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 41  title: Forgiveness
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 18  secondMatch: 3  thirdMatch: 7  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 42  title: The Way It Is
+joy  sadness
+sadness  anger
+fear  joy
+anger  fear
+firstMatch: 18  secondMatch: 3  thirdMatch: 7  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 43  title: The Up
+sadness  anger
+anger  sadness
+fear  joy
+joy  fear
+firstMatch: 18  secondMatch: 3  thirdMatch: 7  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 44  title: Missionary Man
+sadness  fear
+joy  sadness
+fear  anger
+anger  joy
+firstMatch: 18  secondMatch: 3  thirdMatch: 7  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 45  title: Be With You
+sadness  anger
+joy  joy
+anger  sadness
+fear  fear
+firstMatch: 18  secondMatch: 4  thirdMatch: 7  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 46  title: Depressionista
+sadness  fear
+fear  sadness
+anger  anger
+joy  joy
+firstMatch: 18  secondMatch: 4  thirdMatch: 8  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 47  title: Boring
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 19  secondMatch: 4  thirdMatch: 8  fourthMatch: 3
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 48  title: Riot Squad (1991 Digital Remaster)
+anger  sadness
+fear  anger
+sadness  fear
+joy  joy
+firstMatch: 19  secondMatch: 4  thirdMatch: 8  fourthMatch: 4
+match1234: 1  match123: 1  match12: 6  match23: 1
+
+id: 49  title: Bad Dreams
+fear  anger
+sadness  sadness
+joy  joy
+anger  fear
+firstMatch: 19  secondMatch: 5  thirdMatch: 8  fourthMatch: 4
+match1234: 1  match123: 1  match12: 6  match23: 2
+
+id: 50  title: Black Lung (Album Version)
+sadness  sadness
+anger  anger
+fear  fear
+joy  joy
+firstMatch: 20  secondMatch: 5  thirdMatch: 8  fourthMatch: 4
+match1234: 2  match123: 2  match12: 7  match23: 3
+
+id: 51  title: Praying For Time
+fear  sadness
+sadness  fear
+anger  anger
+joy  joy
+firstMatch: 20  secondMatch: 5  thirdMatch: 9  fourthMatch: 4
+match1234: 2  match123: 2  match12: 7  match23: 3
+
+id: 52  title: Don't You Know How Much I Love You
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 21  secondMatch: 5  thirdMatch: 9  fourthMatch: 4
+match1234: 2  match123: 2  match12: 7  match23: 3
+
+id: 53  title: I'm Down
+sadness  sadness
+anger  anger
+fear  joy
+joy  fear
+firstMatch: 22  secondMatch: 5  thirdMatch: 9  fourthMatch: 4
+match1234: 2  match123: 2  match12: 8  match23: 3
+
+id: 54  title: Locomotive (Complicity)
+sadness  sadness
+fear  fear
+joy  anger
+anger  joy
+firstMatch: 23  secondMatch: 5  thirdMatch: 9  fourthMatch: 4
+match1234: 2  match123: 2  match12: 9  match23: 3
+
+id: 55  title: Not Right (Remastered LP Version)
+sadness  anger
+anger  sadness
+fear  fear
+joy  joy
+firstMatch: 23  secondMatch: 5  thirdMatch: 10  fourthMatch: 4
+match1234: 2  match123: 2  match12: 9  match23: 3
+
+id: 56  title: That Rock Won't Roll
+sadness  sadness
+anger  anger
+joy  fear
+fear  joy
+firstMatch: 24  secondMatch: 5  thirdMatch: 10  fourthMatch: 4
+match1234: 2  match123: 2  match12: 10  match23: 3
+
+id: 57  title: I'm Not Worth the Tears
+sadness  sadness
+anger  anger
+fear  fear
+joy  joy
+firstMatch: 25  secondMatch: 5  thirdMatch: 10  fourthMatch: 4
+match1234: 3  match123: 3  match12: 11  match23: 4
+
+id: 58  title: Paralyzed
+sadness  anger
+anger  sadness
+fear  joy
+joy  fear
+firstMatch: 25  secondMatch: 5  thirdMatch: 10  fourthMatch: 4
+match1234: 3  match123: 3  match12: 11  match23: 4
+
+id: 59  title: Don't Go Away
+sadness  sadness
+anger  anger
+joy  fear
+fear  joy
+firstMatch: 26  secondMatch: 5  thirdMatch: 10  fourthMatch: 4
+match1234: 3  match123: 3  match12: 12  match23: 4
+
+id: 60  title: New Pony
+sadness  sadness
+fear  fear
+anger  anger
+joy  joy
+firstMatch: 27  secondMatch: 5  thirdMatch: 10  fourthMatch: 4
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 61  title: Tonight Will Last Forever (Album Version)
+sadness  anger
+joy  sadness
+anger  joy
+fear  fear
+firstMatch: 27  secondMatch: 5  thirdMatch: 10  fourthMatch: 5
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 62  title: FEZ-Being Born
+fear  sadness
+joy  anger
+sadness  fear
+anger  joy
+firstMatch: 27  secondMatch: 5  thirdMatch: 10  fourthMatch: 5
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 63  title: Over The Edge
+sadness  fear
+fear  joy
+anger  sadness
+joy  anger
+firstMatch: 27  secondMatch: 5  thirdMatch: 10  fourthMatch: 5
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 64  title: Destined To Win
+sadness  sadness
+fear  anger
+joy  fear
+anger  joy
+firstMatch: 28  secondMatch: 5  thirdMatch: 10  fourthMatch: 5
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 65  title: The Carpal Tunnel Of Love
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 28  secondMatch: 5  thirdMatch: 10  fourthMatch: 5
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 66  title: Coming Undone
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 29  secondMatch: 5  thirdMatch: 10  fourthMatch: 5
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 67  title: Make Me Bad
+sadness  fear
+anger  sadness
+fear  anger
+joy  joy
+firstMatch: 29  secondMatch: 5  thirdMatch: 10  fourthMatch: 6
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 68  title: 30 Days In The Hole (Live)
+anger  sadness
+sadness  fear
+joy  anger
+fear  joy
+firstMatch: 29  secondMatch: 5  thirdMatch: 10  fourthMatch: 6
+match1234: 4  match123: 4  match12: 13  match23: 5
+
+id: 69  title: This Kind Of Love (Full Band)
+sadness  sadness
+fear  fear
+anger  anger
+joy  joy
+firstMatch: 30  secondMatch: 5  thirdMatch: 10  fourthMatch: 6
+match1234: 5  match123: 5  match12: 14  match23: 6
+
+id: 70  title: White Feather
+sadness  anger
+joy  sadness
+anger  joy
+fear  fear
+firstMatch: 30  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 5  match123: 5  match12: 14  match23: 6
+
+id: 71  title: One I Love
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 30  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 5  match123: 5  match12: 14  match23: 6
+
+id: 72  title: Don't Worry Baby (1999 Digital Remaster)
+sadness  sadness
+fear  fear
+anger  anger
+joy  joy
+firstMatch: 31  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 15  match23: 7
+
+id: 73  title: Kettle Black
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 32  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 15  match23: 7
+
+id: 74  title: Turn It Into Something Special (Svengali's remix für Elisa)
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 32  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 15  match23: 7
+
+id: 75  title: Wild Side
+sadness  sadness
+joy  anger
+fear  joy
+anger  fear
+firstMatch: 33  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 15  match23: 7
+
+id: 76  title: How Can You Resist It
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 34  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 15  match23: 7
+
+id: 77  title: He Will Break Your Heart
+fear  sadness
+sadness  fear
+joy  anger
+anger  joy
+firstMatch: 34  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 15  match23: 7
+
+id: 78  title: Do It To Me
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 34  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 15  match23: 7
+
+id: 79  title: Look Up At The Stars And You're Gone
+anger  anger
+sadness  sadness
+fear  joy
+joy  fear
+firstMatch: 35  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 80  title: Cerilene
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 35  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 81  title: Lover Come Back To Me
+sadness  sadness
+anger  fear
+joy  anger
+fear  joy
+firstMatch: 36  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 82  title: Angel Of Light (Never Say Die Album Version)
+sadness  anger
+anger  joy
+fear  sadness
+joy  fear
+firstMatch: 36  secondMatch: 5  thirdMatch: 10  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 83  title: Dream Lover
+sadness  anger
+fear  sadness
+joy  joy
+anger  fear
+firstMatch: 36  secondMatch: 5  thirdMatch: 11  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 84  title: Ego Trip by Nikki Giovanni
+joy  fear
+sadness  sadness
+fear  anger
+anger  joy
+firstMatch: 36  secondMatch: 6  thirdMatch: 11  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 85  title: Dedicated To The One I Love
+joy  sadness
+sadness  anger
+fear  joy
+anger  fear
+firstMatch: 36  secondMatch: 6  thirdMatch: 11  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 86  title: When I Grow Up
+sadness  sadness
+fear  anger
+anger  fear
+joy  joy
+firstMatch: 37  secondMatch: 6  thirdMatch: 11  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 87  title: Piece Of My Heart
+sadness  sadness
+fear  anger
+joy  joy
+anger  fear
+firstMatch: 38  secondMatch: 6  thirdMatch: 11  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 88  title: The Heretic Anthem (Live version) (Album Version)
+sadness  anger
+anger  sadness
+fear  fear
+joy  joy
+firstMatch: 38  secondMatch: 6  thirdMatch: 12  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 89  title: Face Drop
+sadness  fear
+joy  joy
+fear  sadness
+anger  anger
+firstMatch: 38  secondMatch: 7  thirdMatch: 12  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 90  title: I Love This Town
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 38  secondMatch: 7  thirdMatch: 12  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 91  title: Outro
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 39  secondMatch: 7  thirdMatch: 12  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 92  title: PDA
+joy  sadness
+sadness  anger
+fear  fear
+anger  joy
+firstMatch: 39  secondMatch: 7  thirdMatch: 13  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 93  title: I Only Have Eyes For You (Album Version)
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 40  secondMatch: 7  thirdMatch: 13  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 94  title: Horrible
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 41  secondMatch: 7  thirdMatch: 13  fourthMatch: 7
+match1234: 6  match123: 6  match12: 16  match23: 7
+
+id: 95  title: Another Year
+sadness  sadness
+anger  anger
+joy  joy
+fear  fear
+firstMatch: 42  secondMatch: 7  thirdMatch: 13  fourthMatch: 7
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 96  title: Memphis In The Meantime
+anger  sadness
+sadness  fear
+fear  anger
+joy  joy
+firstMatch: 42  secondMatch: 7  thirdMatch: 13  fourthMatch: 8
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 97  title: Knowledge Is King
+fear  joy
+sadness  fear
+anger  anger
+joy  sadness
+firstMatch: 42  secondMatch: 7  thirdMatch: 14  fourthMatch: 8
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 98  title: Let's Get It Started
+anger  fear
+sadness  sadness
+fear  joy
+joy  anger
+firstMatch: 42  secondMatch: 8  thirdMatch: 14  fourthMatch: 8
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 99  title: The Drop-Off
+sadness  anger
+fear  fear
+anger  sadness
+joy  joy
+firstMatch: 42  secondMatch: 9  thirdMatch: 14  fourthMatch: 8
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 100  title: Tabloid Junkie
+sadness  anger
+anger  joy
+joy  sadness
+fear  fear
+firstMatch: 42  secondMatch: 9  thirdMatch: 14  fourthMatch: 9
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 101  title: Borrow Mine
+fear  sadness
+sadness  fear
+anger  anger
+joy  joy
+firstMatch: 42  secondMatch: 9  thirdMatch: 15  fourthMatch: 9
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 102  title: Life
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 42  secondMatch: 9  thirdMatch: 15  fourthMatch: 9
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 103  title: Rock Of Gibraltar
+sadness  sadness
+anger  fear
+joy  anger
+fear  joy
+firstMatch: 43  secondMatch: 9  thirdMatch: 15  fourthMatch: 9
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 104  title: I Put a Spell on You
+sadness  anger
+anger  sadness
+joy  joy
+fear  fear
+firstMatch: 43  secondMatch: 9  thirdMatch: 16  fourthMatch: 9
+match1234: 7  match123: 7  match12: 17  match23: 8
+
+id: 105  title: Pushing Me Away (Album Version)
+sadness  sadness
+anger  anger
+fear  joy
+joy  fear
+firstMatch: 44  secondMatch: 9  thirdMatch: 16  fourthMatch: 9
+match1234: 7  match123: 7  match12: 18  match23: 8
+
+id: 106  title: Why Don't You Spend The Night
+sadness  sadness
+anger  anger
+fear  joy
+joy  fear
+firstMatch: 45  secondMatch: 9  thirdMatch: 16  fourthMatch: 9
+match1234: 7  match123: 7  match12: 19  match23: 8
+
+id: 107  title: Time Will Crawl (Extended Dance Mix)
+joy  anger
+sadness  sadness
+fear  joy
+anger  fear
+firstMatch: 45  secondMatch: 10  thirdMatch: 16  fourthMatch: 9
+match1234: 7  match123: 7  match12: 19  match23: 8
+
+id: 108  title: The Ultimate
+anger  fear
+sadness  anger
+joy  joy
+fear  sadness
+firstMatch: 45  secondMatch: 10  thirdMatch: 17  fourthMatch: 9
+match1234: 7  match123: 7  match12: 19  match23: 8
+
+id: 109  title: Right Now
+anger  fear
+sadness  anger
+fear  joy
+joy  sadness
+firstMatch: 45  secondMatch: 10  thirdMatch: 17  fourthMatch: 9
+match1234: 7  match123: 7  match12: 19  match23: 8
+
+id: 110  title: People Like New (LP Version)
+anger  sadness
+sadness  anger
+fear  fear
+joy  joy
+firstMatch: 45  secondMatch: 10  thirdMatch: 18  fourthMatch: 9
+match1234: 7  match123: 7  match12: 19  match23: 8
+
+id: 111  title: Awake (Album Version)
+anger  fear
+sadness  sadness
+fear  anger
+joy  joy
+firstMatch: 45  secondMatch: 11  thirdMatch: 18  fourthMatch: 9
+match1234: 7  match123: 7  match12: 19  match23: 8
+
+id: 112  title: Goodnight Girl
+sadness  sadness
+joy  fear
+fear  anger
+anger  joy
+firstMatch: 46  secondMatch: 11  thirdMatch: 18  fourthMatch: 9
+match1234: 7  match123: 7  match12: 19  match23: 8
+
+id: 113  title: Black Tiger
+sadness  sadness
+anger  anger
+fear  fear
+joy  joy
+firstMatch: 47  secondMatch: 11  thirdMatch: 18  fourthMatch: 9
+match1234: 8  match123: 8  match12: 20  match23: 9
+
+id: 114  title: I'll Show You Love
+sadness  anger
+joy  joy
+anger  sadness
+fear  fear
+firstMatch: 47  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 8  match123: 8  match12: 20  match23: 9
+
+id: 115  title: My Party (Kenna Remix)
+sadness  fear
+anger  joy
+fear  sadness
+joy  anger
+firstMatch: 47  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 8  match123: 8  match12: 20  match23: 9
+
+id: 116  title: The Sun Shines From You
+fear  sadness
+joy  anger
+sadness  fear
+anger  joy
+firstMatch: 47  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 8  match123: 8  match12: 20  match23: 9
+
+id: 117  title: If My Baby (LP Version)
+anger  anger
+sadness  joy
+fear  sadness
+joy  fear
+firstMatch: 48  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 8  match123: 8  match12: 20  match23: 9
+
+id: 118  title: Let The Chips Fall
+sadness  sadness
+anger  anger
+fear  fear
+joy  joy
+firstMatch: 49  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 9  match123: 9  match12: 21  match23: 10
+
+id: 119  title: In A Dead World (Album Version)
+sadness  sadness
+fear  fear
+anger  anger
+joy  joy
+firstMatch: 50  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 10  match123: 10  match12: 22  match23: 11
+
+id: 120  title: Just A Phase
+sadness  sadness
+fear  anger
+anger  fear
+joy  joy
+firstMatch: 51  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 10  match123: 10  match12: 22  match23: 11
+
+id: 121  title: Losin' End (LP Version)
+sadness  sadness
+anger  fear
+joy  anger
+fear  joy
+firstMatch: 52  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 10  match123: 10  match12: 22  match23: 11
+
+id: 122  title: Broke Down
+sadness  anger
+anger  sadness
+fear  joy
+joy  fear
+firstMatch: 52  secondMatch: 12  thirdMatch: 18  fourthMatch: 9
+match1234: 10  match123: 10  match12: 22  match23: 11
+
+id: 123  title: Look Me In The Eye
+fear  sadness
+sadness  fear
+anger  anger
+joy  joy
+firstMatch: 52  secondMatch: 12  thirdMatch: 19  fourthMatch: 9
+match1234: 10  match123: 10  match12: 22  match23: 11
+
+id: 124  title: Stagger Lee
+sadness  sadness
+joy  fear
+anger  joy
+fear  anger
+firstMatch: 53  secondMatch: 12  thirdMatch: 19  fourthMatch: 9
+match1234: 10  match123: 10  match12: 22  match23: 11
+
+id: 125  title: Nowhere To Run
+sadness  fear
+joy  sadness
+fear  anger
+anger  joy
+firstMatch: 53  secondMatch: 12  thirdMatch: 19  fourthMatch: 9
+match1234: 10  match123: 10  match12: 22  match23: 11
+
+id: 126  title: Sting Me
+sadness  sadness
+anger  anger
+fear  fear
+joy  joy
+firstMatch: 54  secondMatch: 12  thirdMatch: 19  fourthMatch: 9
+match1234: 11  match123: 11  match12: 23  match23: 12
+
+id: 127  title: Little Drummer Boy
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 54  secondMatch: 12  thirdMatch: 19  fourthMatch: 9
+match1234: 11  match123: 11  match12: 23  match23: 12
+
+id: 128  title: The Call
+sadness  anger
+fear  sadness
+anger  joy
+joy  fear
+firstMatch: 54  secondMatch: 12  thirdMatch: 19  fourthMatch: 9
+match1234: 11  match123: 11  match12: 23  match23: 12
+
+id: 129  title: The Mission
+joy  sadness
+sadness  anger
+fear  fear
+anger  joy
+firstMatch: 54  secondMatch: 12  thirdMatch: 20  fourthMatch: 9
+match1234: 11  match123: 11  match12: 23  match23: 12
+
+id: 130  title: On Tha Rox
+sadness  anger
+fear  fear
+joy  joy
+anger  sadness
+firstMatch: 54  secondMatch: 13  thirdMatch: 20  fourthMatch: 9
+match1234: 11  match123: 11  match12: 23  match23: 13
+
+id: 131  title: Had To Call (featuring Snoop Dogg & Sleepy Eyed Jones)  (Explicit Chopped & Screwed Version)
+sadness  fear
+joy  joy
+anger  anger
+fear  sadness
+firstMatch: 54  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 11  match123: 11  match12: 23  match23: 14
+
+id: 132  title: Runaway Train (LP Version)
+sadness  sadness
+anger  anger
+fear  fear
+joy  joy
+firstMatch: 55  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 12  match123: 12  match12: 24  match23: 15
+
+id: 133  title: Still Love Remains (Album Version)
+sadness  sadness
+fear  fear
+anger  anger
+joy  joy
+firstMatch: 56  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 134  title: Seventy Times Seven (LP Version)
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 57  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 135  title: Absolute Horizon
+sadness  anger
+fear  joy
+joy  sadness
+anger  fear
+firstMatch: 57  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 136  title: Spoonful
+sadness  sadness
+anger  fear
+joy  anger
+fear  joy
+firstMatch: 58  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 137  title: Bobby's Girl (Previously Unreleased Demo - Stereo)
+fear  sadness
+sadness  anger
+joy  fear
+anger  joy
+firstMatch: 58  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 138  title: Into Battle
+fear  anger
+joy  sadness
+sadness  fear
+anger  joy
+firstMatch: 58  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 139  title: (Do)Minion
+sadness  sadness
+joy  fear
+anger  anger
+fear  joy
+firstMatch: 59  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 140  title: Nightly Cares
+sadness  sadness
+joy  fear
+anger  anger
+fear  joy
+firstMatch: 60  secondMatch: 14  thirdMatch: 20  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 141  title: Ku Klux Klan
+sadness  anger
+anger  sadness
+joy  joy
+fear  fear
+firstMatch: 60  secondMatch: 14  thirdMatch: 21  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 142  title: I'm All Yours (LP Version)
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 61  secondMatch: 14  thirdMatch: 21  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 143  title: Just My Baby
+sadness  sadness
+fear  anger
+joy  joy
+anger  fear
+firstMatch: 62  secondMatch: 14  thirdMatch: 21  fourthMatch: 9
+match1234: 13  match123: 13  match12: 25  match23: 16
+
+id: 144  title: Love Can Run Faster
+sadness  sadness
+anger  anger
+fear  joy
+joy  fear
+firstMatch: 63  secondMatch: 14  thirdMatch: 21  fourthMatch: 9
+match1234: 13  match123: 13  match12: 26  match23: 16
+
+id: 145  title: Passover
+sadness  sadness
+fear  fear
+joy  anger
+anger  joy
+firstMatch: 64  secondMatch: 14  thirdMatch: 21  fourthMatch: 9
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 146  title: Curiosity
+anger  joy
+sadness  anger
+fear  sadness
+joy  fear
+firstMatch: 64  secondMatch: 14  thirdMatch: 21  fourthMatch: 9
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 147  title: Street Lights
+sadness  sadness
+joy  anger
+fear  fear
+anger  joy
+firstMatch: 65  secondMatch: 14  thirdMatch: 21  fourthMatch: 9
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 148  title: Megalodon
+fear  anger
+anger  sadness
+sadness  joy
+joy  fear
+firstMatch: 65  secondMatch: 14  thirdMatch: 21  fourthMatch: 9
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 149  title: American Ghost Dance (2003 Digital Remastered)
+sadness  anger
+fear  sadness
+joy  joy
+anger  fear
+firstMatch: 65  secondMatch: 14  thirdMatch: 22  fourthMatch: 9
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 150  title: I Guess I'm Crazy
+sadness  sadness
+joy  anger
+anger  fear
+fear  joy
+firstMatch: 66  secondMatch: 14  thirdMatch: 22  fourthMatch: 9
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 151  title: This White Circle
+sadness  sadness
+joy  fear
+fear  anger
+anger  joy
+firstMatch: 67  secondMatch: 14  thirdMatch: 22  fourthMatch: 9
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 152  title: Love Dump (Demo Version)
+sadness  fear
+anger  sadness
+fear  anger
+joy  joy
+firstMatch: 67  secondMatch: 14  thirdMatch: 22  fourthMatch: 10
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 153  title: Conqueror Worm
+sadness  fear
+anger  sadness
+joy  anger
+fear  joy
+firstMatch: 67  secondMatch: 14  thirdMatch: 22  fourthMatch: 10
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 154  title: Deviate From The Form
+anger  sadness
+sadness  fear
+fear  anger
+joy  joy
+firstMatch: 67  secondMatch: 14  thirdMatch: 22  fourthMatch: 11
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 155  title: The Door
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 68  secondMatch: 14  thirdMatch: 22  fourthMatch: 11
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 156  title: Better Luck Next Time
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 69  secondMatch: 14  thirdMatch: 22  fourthMatch: 11
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 157  title: The Three-Dimensional Shadow
+joy  sadness
+sadness  fear
+fear  anger
+anger  joy
+firstMatch: 69  secondMatch: 14  thirdMatch: 22  fourthMatch: 11
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 158  title: Freedom
+sadness  anger
+anger  sadness
+joy  joy
+fear  fear
+firstMatch: 69  secondMatch: 14  thirdMatch: 23  fourthMatch: 11
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 159  title: CB4 (Instrumental Mix)
+fear  fear
+sadness  joy
+joy  anger
+anger  sadness
+firstMatch: 70  secondMatch: 14  thirdMatch: 23  fourthMatch: 11
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 160  title: Rock On The Radio
+sadness  anger
+fear  joy
+anger  sadness
+joy  fear
+firstMatch: 70  secondMatch: 14  thirdMatch: 23  fourthMatch: 11
+match1234: 13  match123: 13  match12: 27  match23: 16
+
+id: 161  title: Awake
+sadness  sadness
+fear  fear
+anger  anger
+joy  joy
+firstMatch: 71  secondMatch: 14  thirdMatch: 23  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 162  title: Cut Here
+sadness  fear
+fear  sadness
+anger  anger
+joy  joy
+firstMatch: 71  secondMatch: 14  thirdMatch: 24  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 163  title: What Country Is
+sadness  sadness
+anger  fear
+joy  anger
+fear  joy
+firstMatch: 72  secondMatch: 14  thirdMatch: 24  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 164  title: Kill the Poor
+anger  sadness
+sadness  anger
+fear  fear
+joy  joy
+firstMatch: 72  secondMatch: 14  thirdMatch: 25  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 165  title: Future
+fear  sadness
+joy  fear
+sadness  anger
+anger  joy
+firstMatch: 72  secondMatch: 14  thirdMatch: 25  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 166  title: Drive
+sadness  anger
+anger  joy
+fear  sadness
+joy  fear
+firstMatch: 72  secondMatch: 14  thirdMatch: 25  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 167  title: Magic Dragon Theatre
+sadness  sadness
+joy  fear
+fear  anger
+anger  joy
+firstMatch: 73  secondMatch: 14  thirdMatch: 25  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 168  title: Bush
+sadness  fear
+anger  sadness
+joy  anger
+fear  joy
+firstMatch: 73  secondMatch: 14  thirdMatch: 25  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 169  title: Trading Places
+anger  fear
+sadness  sadness
+fear  anger
+joy  joy
+firstMatch: 73  secondMatch: 15  thirdMatch: 25  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 170  title: Sprung (Cibola Mix W/ Rap)
+sadness  anger
+anger  joy
+fear  sadness
+joy  fear
+firstMatch: 73  secondMatch: 15  thirdMatch: 25  fourthMatch: 11
+match1234: 14  match123: 14  match12: 28  match23: 17
+
+id: 171  title: Veronica Sawyer (Album)
+sadness  sadness
+fear  fear
+anger  anger
+joy  joy
+firstMatch: 74  secondMatch: 15  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 29  match23: 18
+
+id: 172  title: Dancing With Myself (BBC In Concert 01/01/81)
+sadness  anger
+joy  joy
+fear  sadness
+anger  fear
+firstMatch: 74  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 29  match23: 18
+
+id: 173  title: Nothing's The Same
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 75  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 29  match23: 18
+
+id: 174  title: B-Boy Stance
+anger  sadness
+sadness  anger
+joy  fear
+fear  joy
+firstMatch: 75  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 29  match23: 18
+
+id: 175  title: Song Sung Blue
+sadness  sadness
+joy  anger
+anger  fear
+fear  joy
+firstMatch: 76  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 29  match23: 18
+
+id: 176  title: Gettin' Better
+joy  sadness
+sadness  anger
+fear  joy
+anger  fear
+firstMatch: 76  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 29  match23: 18
+
+id: 177  title: Sing Your Freedom
+joy  sadness
+fear  anger
+sadness  fear
+anger  joy
+firstMatch: 76  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 29  match23: 18
+
+id: 178  title: Around And Around
+sadness  sadness
+fear  fear
+joy  anger
+anger  joy
+firstMatch: 77  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 30  match23: 18
+
+id: 179  title: Walkin' In
+sadness  sadness
+joy  fear
+fear  anger
+anger  joy
+firstMatch: 78  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 30  match23: 18
+
+id: 180  title: I Go To Work
+sadness  anger
+anger  joy
+fear  sadness
+joy  fear
+firstMatch: 78  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 30  match23: 18
+
+id: 181  title: Country Day
+joy  sadness
+sadness  anger
+anger  fear
+fear  joy
+firstMatch: 78  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 30  match23: 18
+
+id: 182  title: Dutty Wine
+joy  fear
+sadness  anger
+fear  sadness
+anger  joy
+firstMatch: 78  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 30  match23: 18
+
+id: 183  title: Won Threw Ate
+sadness  sadness
+joy  fear
+fear  anger
+anger  joy
+firstMatch: 79  secondMatch: 16  thirdMatch: 25  fourthMatch: 11
+match1234: 15  match123: 15  match12: 30  match23: 18
+
+id: 184  title: Taste It
+joy  anger
+sadness  joy
+anger  sadness
+fear  fear
+firstMatch: 79  secondMatch: 16  thirdMatch: 25  fourthMatch: 12
+match1234: 15  match123: 15  match12: 30  match23: 18
+
+id: 185  title: Emit Remmus (Album Version)
+sadness  sadness
+anger  anger
+joy  fear
+fear  joy
+firstMatch: 80  secondMatch: 16  thirdMatch: 25  fourthMatch: 12
+match1234: 15  match123: 15  match12: 31  match23: 18
+
+id: 186  title: London Bridge
+joy  joy
+sadness  fear
+fear  sadness
+anger  anger
+firstMatch: 81  secondMatch: 16  thirdMatch: 25  fourthMatch: 12
+match1234: 15  match123: 15  match12: 31  match23: 18
+
+id: 187  title: Safe Sex
+fear  sadness
+joy  anger
+sadness  fear
+anger  joy
+firstMatch: 81  secondMatch: 16  thirdMatch: 25  fourthMatch: 12
+match1234: 15  match123: 15  match12: 31  match23: 18
+
+id: 188  title: One Fine Day
+joy  sadness
+sadness  fear
+anger  anger
+fear  joy
+firstMatch: 81  secondMatch: 16  thirdMatch: 26  fourthMatch: 12
+match1234: 15  match123: 15  match12: 31  match23: 18
+
+id: 189  title: Rocks Off
+sadness  sadness
+anger  anger
+fear  joy
+joy  fear
+firstMatch: 82  secondMatch: 16  thirdMatch: 26  fourthMatch: 12
+match1234: 15  match123: 15  match12: 32  match23: 18
+
+id: 190  title: If I Talk To Him
+sadness  sadness
+fear  anger
+anger  joy
+joy  fear
+firstMatch: 83  secondMatch: 16  thirdMatch: 26  fourthMatch: 12
+match1234: 15  match123: 15  match12: 32  match23: 18
+
+id: 191  title: Hold On Baby
+joy  sadness
+fear  fear
+sadness  anger
+anger  joy
+firstMatch: 83  secondMatch: 17  thirdMatch: 26  fourthMatch: 12
+match1234: 15  match123: 15  match12: 32  match23: 18
+
+id: 192  title: Everything Your Heart Desires
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 84  secondMatch: 17  thirdMatch: 26  fourthMatch: 12
+match1234: 15  match123: 15  match12: 32  match23: 18
+
+id: 193  title: Shelter Your Needs
+sadness  sadness
+anger  anger
+fear  fear
+joy  joy
+firstMatch: 85  secondMatch: 17  thirdMatch: 26  fourthMatch: 12
+match1234: 16  match123: 16  match12: 33  match23: 19
+
+id: 194  title: You Can't Hurry Love  (LP Version)
+fear  sadness
+sadness  fear
+joy  anger
+anger  joy
+firstMatch: 85  secondMatch: 17  thirdMatch: 26  fourthMatch: 12
+match1234: 16  match123: 16  match12: 33  match23: 19
+
+id: 195  title: Escape ( LP Version)
+joy  anger
+sadness  sadness
+fear  joy
+anger  fear
+firstMatch: 85  secondMatch: 18  thirdMatch: 26  fourthMatch: 12
+match1234: 16  match123: 16  match12: 33  match23: 19
+
+id: 196  title: Over Again (Album Version)
+sadness  sadness
+anger  fear
+fear  anger
+joy  joy
+firstMatch: 86  secondMatch: 18  thirdMatch: 26  fourthMatch: 12
+match1234: 16  match123: 16  match12: 33  match23: 19
+
+id: 197  title: Summer Shudder
+sadness  sadness
+joy  anger
+anger  fear
+fear  joy
+firstMatch: 87  secondMatch: 18  thirdMatch: 26  fourthMatch: 12
+match1234: 16  match123: 16  match12: 33  match23: 19
+
+id: 198  title: Girls Against Boys (LP Version)
+sadness  sadness
+anger  fear
+joy  anger
+fear  joy
+firstMatch: 88  secondMatch: 18  thirdMatch: 26  fourthMatch: 12
+match1234: 16  match123: 16  match12: 33  match23: 19
+
+id: 199  title: Camelot
+sadness  anger
+joy  sadness
+fear  joy
+anger  fear
+firstMatch: 88  secondMatch: 18  thirdMatch: 26  fourthMatch: 12
+match1234: 16  match123: 16  match12: 33  match23: 19
+
